@@ -1,0 +1,21 @@
+.contact__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  border: 0.0625rem solid gray;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+}
+
+.contact__data {
+  text-align: left;
+}
+
+p > span {
+  margin-right: 0.5rem;
+}
+
+p {
+  margin: 0;
+}
